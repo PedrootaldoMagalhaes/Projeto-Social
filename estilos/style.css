@@ -33,6 +33,10 @@ section#telefone{
     background: url('../imagens/frame-iphone.png') no-repeat;
 }
 
-section#redes-sociais{
- 
+iframe#tela{
+    position: relative;
+    top: 81px;
+    left: 22px;
+    width: 266px;
+    height: 473px;
 }
